@@ -1,0 +1,13 @@
+name: env_me4242
+channels:
+  - defaults
+dependencies:
+  - pytorch
+  - pytorch-cuda
+  - torchvision
+  - ultralytics
+  - websocket-client
+  - websockets
+  - keyboard
+  - paho-mqtt
+prefix: /home/jeric/miniconda3/envs/env_me4242
